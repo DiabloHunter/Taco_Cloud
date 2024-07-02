@@ -1,3 +1,4 @@
+/*
 package com.example.demo.repository.impl.jdbc;
 
 import com.example.demo.domain.Ingredient;
@@ -50,3 +51,4 @@ public class JdbcIngredientRepository implements IngredientRepository {
         return ingredient;
     }
 }
+*/
